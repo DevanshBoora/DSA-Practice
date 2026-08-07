@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DevanshBoora/DSA-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/DevanshBoora/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/DevanshBoora/DSA-Practice/tree/master/0242-valid-anagram) |
 ## String
@@ -19,5 +20,6 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DevanshBoora/DSA-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/DevanshBoora/DSA-Practice/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
