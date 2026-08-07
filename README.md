@@ -24,5 +24,10 @@
 | ------- |
 | [0001-two-sum](https://github.com/DevanshBoora/DSA-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/DevanshBoora/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DevanshBoora/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/DevanshBoora/DSA-Practice/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DevanshBoora/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
