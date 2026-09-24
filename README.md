@@ -27,6 +27,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevanshBoora/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/DevanshBoora/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/DevanshBoora/DSA-Practice/tree/master/0283-move-zeroes) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DevanshBoora/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/DevanshBoora/DSA-Practice/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DevanshBoora/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
