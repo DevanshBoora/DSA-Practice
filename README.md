@@ -35,9 +35,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/DevanshBoora/DSA-Practice/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/DevanshBoora/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DevanshBoora/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/DevanshBoora/DSA-Practice/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
